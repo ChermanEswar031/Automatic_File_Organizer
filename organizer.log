@@ -1,0 +1,254 @@
+2026-10-02 10:50:34 | STARTED | Organizer started
+2026-10-02 10:51:22 | MOVED | New shortcut.lnk | Others/New shortcut.lnk
+2026-10-02 10:51:22 | FAILED | ~ew shortcut.tmp | File no longer exists
+2026-10-02 10:51:22 | FAILED | New shortcut.lnk~RF40579e.TMP | File no longer exists
+2026-10-02 10:52:19 | MOVED | sample.pdf | Documents/sample.pdf
+2026-10-02 13:32:03 | STARTED | Organizer started
+2026-10-02 13:39:45 | IGNORED | New shortcut.lnk
+2026-10-02 13:39:45 | IGNORED | ~ew shortcut.tmp
+2026-10-02 13:39:45 | IGNORED | New shortcut.lnk~RFda876b.TMP
+2026-10-02 13:40:27 | STOPPED | Organizer stopped
+2026-10-02 13:41:15 | STARTED | Organizer started
+2026-10-02 13:42:30 | MOVED | 1.pdf | Documents/1.pdf
+2026-10-02 13:43:14 | STOPPED | Organizer stopped
+2026-10-02 13:44:58 | MOVED | hello.txt | Documents/hello.txt
+2026-10-02 13:44:59 | MOVED | old_file.pdf | Documents/old_file.pdf
+2026-10-02 13:45:00 | MOVED | organizer.log | Others/organizer.log
+2026-10-02 13:45:00 | STARTED | Organizer started
+2026-10-02 13:45:45 | STOPPED | Organizer stopped
+2026-10-02 13:46:33 | STARTED | Organizer started
+2026-10-02 13:47:02 | STOPPED | Organizer stopped
+2026-10-02 13:47:06 | STARTED | Organizer started
+2026-10-02 13:47:16 | STOPPED | Organizer stopped
+2026-10-02 13:47:52 | STARTED | Organizer started
+2026-10-02 13:48:20 | MOVED | test.jpg | Images/test_1.jpg
+2026-10-02 13:50:00 | STOPPED | Organizer stopped
+2026-10-02 13:53:06 | STARTED | Organizer started
+2026-10-02 13:53:56 | MOVED | README | Others/README
+2026-10-02 13:54:22 | STOPPED | Organizer stopped
+2026-10-02 13:55:20 | STARTED | Organizer started
+2026-10-02 13:57:38 | STOPPED | Organizer stopped
+2026-10-02 13:58:14 | STARTED | Organizer started
+2026-10-02 13:58:46 | STOPPED | Organizer stopped
+2026-10-02 14:00:51 | STARTED | Organizer started
+2026-10-02 14:01:37 | MOVED | photo.jpg | Images/photo.jpg
+2026-10-02 14:01:49 | STOPPED | Organizer stopped
+2026-10-02 14:03:16 | STARTED | Organizer started
+2026-10-02 14:04:22 | STOPPED | Organizer stopped
+2026-10-02 14:05:11 | STARTUP_SCAN | 0 existing files checked
+2026-10-02 14:05:11 | STARTED | Organizer started
+2026-10-02 14:07:14 | INFO | test.js | Unknown extension .js
+2026-10-02 14:07:14 | MOVED | test.js | Others/test.js
+2026-10-02 14:07:24 | STOPPED | Organizer stopped
+2026-10-02 14:09:20 | STARTUP_SCAN | 0 existing files checked
+2026-10-02 14:09:20 | STARTED | Organizer started
+2026-10-02 14:09:37 | MOVED | test.jpg | Images/test.jpg
+2026-10-02 14:09:47 | MOVED | test.pdf | Documents/test.pdf
+2026-10-02 14:10:01 | INFO | test.js | Unknown extension .js
+2026-10-02 14:10:01 | MOVED | test.js | Others/test_1.js
+2026-10-02 14:10:16 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:10:25 | STOPPED | Organizer stopped
+2026-10-02 14:11:26 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:11:26 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:11:26 | STARTED | Organizer started
+2026-10-02 14:11:42 | MOVED | photo.jpg | Images/photo_1.jpg
+2026-10-02 14:12:06 | MOVED | document.pdf | Documents/document.pdf
+2026-10-02 14:12:35 | MOVED | video.mp3 | Audio/video.mp3
+2026-10-02 14:13:10 | INFO | test.xyz | Unknown extension .xyz
+2026-10-02 14:13:10 | MOVED | test.xyz | Others/test.xyz
+2026-10-02 14:13:28 | MOVED | video.mp4 | Videos/video.mp4
+2026-10-02 14:13:45 | STOPPED | Organizer stopped
+2026-10-02 14:15:44 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:15:44 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:15:44 | STARTED | Organizer started
+2026-10-02 14:16:09 | INFO | test.py | Unknown extension .py
+2026-10-02 14:16:09 | MOVED | test.py | Others/test.py
+2026-10-02 14:16:23 | INFO | test.r | Unknown extension .r
+2026-10-02 14:16:23 | MOVED | test.r | Others/test.r
+2026-10-02 14:16:37 | INFO | test.t | Unknown extension .t
+2026-10-02 14:16:37 | MOVED | test.t | Others/test.t
+2026-10-02 14:16:49 | SUMMARY | Moved: 3 | Ignored: 1 | Unknown: 3 | Errors: 0
+2026-10-02 14:16:49 | CATEGORY_SUMMARY | Images: 0 | Documents: 0 | Audio: 0 | Videos: 0 | Software: 0 | Others: 3
+2026-10-02 14:16:49 | STOPPED | Organizer stopped
+2026-10-02 14:18:09 | SESSION:20261002_141809 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:18:09 | SESSION:20261002_141809 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:18:09 | SESSION:20261002_141809 | STARTED | Organizer started
+2026-10-02 14:18:51 | SESSION:20261002_141809 | INFO | test.c | Unknown extension .c
+2026-10-02 14:18:51 | SESSION:20261002_141809 | MOVED | test.c | Others/test.c
+2026-10-02 14:18:57 | SESSION:20261002_141809 | SUMMARY | Moved: 1 | Ignored: 1 | Unknown: 1 | Errors: 0
+2026-10-02 14:18:57 | SESSION:20261002_141809 | CATEGORY_SUMMARY | Images: 0 | Documents: 0 | Audio: 0 | Videos: 0 | Software: 0 | Others: 1
+2026-10-02 14:18:57 | SESSION:20261002_141809 | STOPPED | Organizer stopped
+2026-10-02 14:20:40 | SESSION:20261002_142040 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:20:40 | SESSION:20261002_142040 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:20:40 | SESSION:20261002_142040 | STARTED | Organizer started
+2026-10-02 14:21:23 | SESSION:20261002_142040 | SUMMARY | Moved: 0 | Ignored: 1 | Unknown: 0 | Errors: 0
+2026-10-02 14:21:23 | SESSION:20261002_142040 | CATEGORY_SUMMARY | Images: 0 | Documents: 0 | Audio: 0 | Videos: 0 | Software: 0 | Others: 0
+2026-10-02 14:21:23 | SESSION:20261002_142040 | STOPPED | Organizer stopped
+2026-10-02 14:23:28 | SESSION:20261002_142328 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:23:28 | SESSION:20261002_142328 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:23:28 | SESSION:20261002_142328 | STARTED | Organizer started
+2026-10-02 14:24:03 | SESSION:20261002_142328 | MOVED | picture.svg | Images/picture.svg
+2026-10-02 14:24:21 | SESSION:20261002_142328 | MOVED | presentation.pptx | Documents/presentation.pptx
+2026-10-02 14:24:30 | SESSION:20261002_142328 | MOVED | song.flac | Audio/song.flac
+2026-10-02 14:24:40 | SESSION:20261002_142328 | MOVED | movie.webm | Videos/movie.webm
+2026-10-02 14:24:52 | SESSION:20261002_142328 | MOVED | script.py | Software/script.py
+2026-10-02 14:25:03 | SESSION:20261002_142328 | MOVED | backup.zip | Archives/backup.zip
+2026-10-02 14:25:13 | SESSION:20261002_142328 | INFO | something.xyz | Unknown extension .xyz
+2026-10-02 14:25:13 | SESSION:20261002_142328 | MOVED | something.xyz | Others/something.xyz
+2026-10-02 14:25:19 | SESSION:20261002_142328 | SUMMARY | Moved: 7 | Ignored: 1 | Unknown: 1 | Errors: 0
+2026-10-02 14:25:19 | SESSION:20261002_142328 | CATEGORY_SUMMARY | Images: 1 | Documents: 1 | Audio: 1 | Videos: 1 | Software: 1 | Archives: 1 | Others: 1
+2026-10-02 14:25:19 | SESSION:20261002_142328 | STOPPED | Organizer stopped
+2026-10-02 14:26:39 | SESSION:20261002_142639 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:26:39 | SESSION:20261002_142639 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:26:39 | SESSION:20261002_142639 | STARTED | Organizer started
+2026-10-02 14:27:04 | SESSION:20261002_142639 | MOVED | test.jpg | Images/test_1.jpg
+2026-10-02 14:27:15 | SESSION:20261002_142639 | MOVED | test.pdf | Documents/test_1.pdf
+2026-10-02 14:27:24 | SESSION:20261002_142639 | MOVED | test.mp3 | Audio/test.mp3
+2026-10-02 14:27:36 | SESSION:20261002_142639 | MOVED | test.mp4 | Videos/test.mp4
+2026-10-02 14:27:46 | SESSION:20261002_142639 | MOVED | test.zip | Archives/test.zip
+2026-10-02 14:27:55 | SESSION:20261002_142639 | MOVED | test.py | Software/test.py
+2026-10-02 14:28:03 | SESSION:20261002_142639 | INFO | test.xyz | Unknown extension .xyz
+2026-10-02 14:28:03 | SESSION:20261002_142639 | MOVED | test.xyz | Others/test_1.xyz
+2026-10-02 14:28:20 | SESSION:20261002_142639 | SUMMARY | Moved: 7 | Ignored: 1 | Unknown: 1 | Errors: 0
+2026-10-02 14:28:20 | SESSION:20261002_142639 | CATEGORY_SUMMARY | Archives: 1 | Audio: 1 | Documents: 1 | Images: 1 | Others: 1 | Software: 1 | Videos: 1 | 
+2026-10-02 14:28:20 | SESSION:20261002_142639 | STOPPED | Organizer stopped
+2026-10-02 14:29:29 | SESSION:20261002_142929 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:29:29 | SESSION:20261002_142929 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:29:29 | SESSION:20261002_142929 | STARTED | Organizer started | NORMAL MODE
+2026-10-02 14:29:55 | SESSION:20261002_142929 | INFO | test.c++ | Unknown extension .c++
+2026-10-02 14:29:55 | SESSION:20261002_142929 | MOVED | test.c++ | Others/test.c++
+2026-10-02 14:29:59 | SESSION:20261002_142929 | SUMMARY | Moved: 1 | Ignored: 1 | Unknown: 1 | Errors: 0
+2026-10-02 14:29:59 | SESSION:20261002_142929 | CATEGORY_SUMMARY | Archives: 0 | Audio: 0 | Documents: 0 | Images: 0 | Others: 1 | Software: 0 | Videos: 0 | 
+2026-10-02 14:29:59 | SESSION:20261002_142929 | STOPPED | Organizer stopped
+2026-10-02 14:31:02 | SESSION:20261002_143102 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:31:02 | SESSION:20261002_143102 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:31:02 | SESSION:20261002_143102 | STARTED | Organizer started | DRY RUN
+2026-10-02 14:31:20 | SESSION:20261002_143102 | DRY_RUN | test.jpg | Images/test_2.jpg
+2026-10-02 14:31:30 | SESSION:20261002_143102 | DRY_RUN | test.pdf | Documents/test_2.pdf
+2026-10-02 14:31:44 | SESSION:20261002_143102 | DRY_RUN | test.zip | Archives/test_1.zip
+2026-10-02 14:32:14 | SESSION:20261002_143102 | SUMMARY | Moved: 0 | Ignored: 1 | Unknown: 0 | Errors: 0
+2026-10-02 14:32:14 | SESSION:20261002_143102 | CATEGORY_SUMMARY | Archives: 0 | Audio: 0 | Documents: 0 | Images: 0 | Others: 0 | Software: 0 | Videos: 0 | 
+2026-10-02 14:32:14 | SESSION:20261002_143102 | STOPPED | Organizer stopped
+2026-10-02 14:34:49 | SESSION:20261002_143448 | MOVED | test.jpg | Images/test_2.jpg
+2026-10-02 14:34:50 | SESSION:20261002_143448 | MOVED | test.pdf | Documents/test_2.pdf
+2026-10-02 14:34:50 | SESSION:20261002_143448 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:34:51 | SESSION:20261002_143448 | MOVED | test.zip | Archives/test_1.zip
+2026-10-02 14:34:51 | SESSION:20261002_143448 | STARTUP_SCAN | 4 existing files checked
+2026-10-02 14:34:51 | SESSION:20261002_143448 | STARTED | Organizer started | NORMAL MODE
+2026-10-02 14:35:02 | SESSION:20261002_143448 | SUMMARY | Moved: 3 | Ignored: 1 | Unknown: 0 | Errors: 0
+2026-10-02 14:35:02 | SESSION:20261002_143448 | CATEGORY_SUMMARY | Archives: 1 | Audio: 0 | Documents: 1 | Images: 1 | Others: 0 | Software: 0 | Videos: 0 | 
+2026-10-02 14:35:02 | SESSION:20261002_143448 | STOPPED | Organizer stopped
+2026-10-02 14:35:11 | SESSION:20261002_143511 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:35:11 | SESSION:20261002_143511 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:35:11 | SESSION:20261002_143511 | STARTED | Organizer started | DRY RUN
+2026-10-02 14:35:28 | SESSION:20261002_143511 | INFO | test.r | Unknown extension .r
+2026-10-02 14:35:28 | SESSION:20261002_143511 | DRY_RUN | test.r | Others/test_1.r
+2026-10-02 14:35:33 | SESSION:20261002_143511 | SUMMARY | Moved: 0 | Ignored: 1 | Unknown: 1 | Errors: 0
+2026-10-02 14:35:33 | SESSION:20261002_143511 | CATEGORY_SUMMARY | Archives: 0 | Audio: 0 | Documents: 0 | Images: 0 | Others: 0 | Software: 0 | Videos: 0 | 
+2026-10-02 14:35:33 | SESSION:20261002_143511 | STOPPED | Organizer stopped
+2026-10-02 14:39:34 | SESSION:20261002_143933 | INFO | test.r | Unknown extension .r
+2026-10-02 14:39:34 | SESSION:20261002_143933 | MOVED | test.r | Others/test_1.r
+2026-10-02 14:39:34 | SESSION:20261002_143933 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:39:34 | SESSION:20261002_143933 | STARTUP_SCAN | 2 existing files checked
+2026-10-02 14:39:34 | SESSION:20261002_143933 | STARTED | Organizer started | NORMAL MODE
+2026-10-02 14:39:52 | SESSION:20261002_143933 | MOVED | test.jpg | Images/test_3.jpg
+2026-10-02 14:40:01 | SESSION:20261002_143933 | MOVED | test.pdf | Documents/test_3.pdf
+2026-10-02 14:40:10 | SESSION:20261002_143933 | MOVED | test.mp3 | Audio/test_1.mp3
+2026-10-02 14:40:18 | SESSION:20261002_143933 | MOVED | test.zip | Archives/test_2.zip
+2026-10-02 14:40:25 | SESSION:20261002_143933 | INFO | test.xyz | Unknown extension .xyz
+2026-10-02 14:40:25 | SESSION:20261002_143933 | MOVED | test.xyz | Others/test_2.xyz
+2026-10-02 14:40:31 | SESSION:20261002_143933 | SUMMARY | Moved: 6 | Ignored: 1 | Unknown: 2 | Errors: 0
+2026-10-02 14:40:31 | SESSION:20261002_143933 | CATEGORY_SUMMARY | Archives: 1 | Audio: 1 | Documents: 1 | Images: 1 | Others: 2 | Software: 0 | Videos: 0 | 
+2026-10-02 14:40:31 | SESSION:20261002_143933 | STOPPED | Organizer stopped
+2026-10-02 14:41:51 | SESSION:20261002_144151 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:41:51 | SESSION:20261002_144151 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:41:51 | SESSION:20261002_144151 | STARTED | Organizer started | NORMAL MODE
+2026-10-02 14:42:42 | SESSION:20261002_144151 | MOVED | test.js | Software/test.js
+2026-10-02 14:42:54 | SESSION:20261002_144151 | SUMMARY | Moved: 1 | Ignored: 1 | Unknown: 0 | Errors: 0
+2026-10-02 14:42:54 | SESSION:20261002_144151 | CATEGORY_SUMMARY | Archives: 0 | Audio: 0 | Documents: 0 | Images: 0 | Others: 0 | Software: 1 | Videos: 0 | 
+2026-10-02 14:42:54 | SESSION:20261002_144151 | STOPPED | Organizer stopped
+2026-10-02 14:46:09 | SESSION:20261002_144609 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:46:09 | SESSION:20261002_144609 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:46:09 | SESSION:20261002_144609 | STARTED | Organizer started | NORMAL MODE
+2026-10-02 14:46:42 | SESSION:20261002_144609 | MOVED | photo.jpg | Images/photo_2.jpg
+2026-10-02 14:46:52 | SESSION:20261002_144609 | MOVED | document.pdf | Documents/document_1.pdf
+2026-10-02 14:46:55 | SESSION:20261002_144609 | SUMMARY | Processed: 3 | Moved: 2 | Dry-run: 0 | Ignored: 1 | Unknown: 0 | Errors: 0
+2026-10-02 14:46:55 | SESSION:20261002_144609 | SESSION_TIME | Start: 2026-10-02 14:46:09 | End: 2026-10-02 14:46:55 | Duration: 0:00:46.007645
+2026-10-02 14:46:55 | SESSION:20261002_144609 | CATEGORY_SUMMARY | Archives: 0 | Audio: 0 | Documents: 1 | Images: 1 | Others: 0 | Software: 0 | Videos: 0 | 
+2026-10-02 14:46:55 | SESSION:20261002_144609 | STOPPED | Organizer stopped
+2026-10-02 14:47:33 | SESSION:20261002_144733 | IGNORED | test.tmp | Temporary file
+2026-10-02 14:47:33 | SESSION:20261002_144733 | STARTUP_SCAN | 1 existing files checked
+2026-10-02 14:47:33 | SESSION:20261002_144733 | STARTED | Organizer started | DRY RUN
+2026-10-02 14:47:57 | SESSION:20261002_144733 | INFO | test.c | Unknown extension .c
+2026-10-02 14:47:57 | SESSION:20261002_144733 | DRY_RUN | test.c | Others/test_1.c
+2026-10-02 14:48:05 | SESSION:20261002_144733 | INFO | test.t | Unknown extension .t
+2026-10-02 14:48:05 | SESSION:20261002_144733 | DRY_RUN | test.t | Others/test_1.t
+2026-10-02 14:48:10 | SESSION:20261002_144733 | SUMMARY | Processed: 3 | Moved: 0 | Dry-run: 2 | Ignored: 1 | Unknown: 2 | Errors: 0
+2026-10-02 14:48:10 | SESSION:20261002_144733 | SESSION_TIME | Start: 2026-10-02 14:47:33 | End: 2026-10-02 14:48:10 | Duration: 0:00:37.485626
+2026-10-02 14:48:10 | SESSION:20261002_144733 | CATEGORY_SUMMARY | Archives: 0 | Audio: 0 | Documents: 0 | Images: 0 | Others: 2 | Software: 0 | Videos: 0 | 
+2026-10-02 14:48:10 | SESSION:20261002_144733 | STOPPED | Organizer stopped
+[2026-10-02 14:54:10] [Session: 20261002_145410] [STARTED] D:\Projects\Automatic_File_Organizer\test_folder | Organizer started
+[2026-10-02 14:54:10] [Session: 20261002_145410] [UNKNOWN] D:\Projects\Automatic_File_Organizer\test_folder\test.c | Unknown extension
+[2026-10-02 14:54:10] [Session: 20261002_145410] [MOVED] D:\Projects\Automatic_File_Organizer\test_folder\test.c | Destination: D:\Projects\Automatic_File_Organizer\test_folder\Others\test_1.c
+[2026-10-02 14:54:10] [Session: 20261002_145410] [UNKNOWN] D:\Projects\Automatic_File_Organizer\test_folder\test.t | Unknown extension
+[2026-10-02 14:54:10] [Session: 20261002_145410] [MOVED] D:\Projects\Automatic_File_Organizer\test_folder\test.t | Destination: D:\Projects\Automatic_File_Organizer\test_folder\Others\test_1.t
+[2026-10-02 14:54:10] [Session: 20261002_145410] [IGNORED] D:\Projects\Automatic_File_Organizer\test_folder\test.tmp | Temporary file
+[2026-10-02 14:54:45] [Session: 20261002_145410] [MOVED] D:\Projects\Automatic_File_Organizer\test_folder\photo.jpg | Destination: D:\Projects\Automatic_File_Organizer\test_folder\Images\photo_3.jpg
+[2026-10-02 14:55:01] [Session: 20261002_145410] [MOVED] D:\Projects\Automatic_File_Organizer\test_folder\song.mp3 | Destination: D:\Projects\Automatic_File_Organizer\test_folder\Audio\song_1.mp3
+[2026-10-02 14:55:14] [Session: 20261002_145410] [MOVED] D:\Projects\Automatic_File_Organizer\test_folder\backup.zip | Destination: D:\Projects\Automatic_File_Organizer\test_folder\Archives\backup_1.zip
+
+========== SESSION SUMMARY ==========
+Session ID: 20261002_145410
+Session Start: 2026-10-02 14:54:10.004424
+Session End: 2026-10-02 14:55:32.545578
+Duration: 0:01:22.541154
+Files processed: 6
+Files moved: 5
+Dry-run files: 0
+Ignored files: 1
+Unknown files: 2
+Errors: 0
+Category statistics:
+  Others: 2
+  Images: 1
+  Audio: 1
+  Archives: 1
+=====================================
+[2026-10-02 14:55:43] [Session: 20261002_145543] [STARTED] D:\Projects\Automatic_File_Organizer\test_folder | Organizer started
+[2026-10-02 14:55:43] [Session: 20261002_145543] [IGNORED] D:\Projects\Automatic_File_Organizer\test_folder\test.tmp | Temporary file
+[2026-10-02 14:56:43] [Session: 20261002_145543] [UNKNOWN] D:\Projects\Automatic_File_Organizer\test_folder\test.c | Unknown extension
+[2026-10-02 14:56:43] [Session: 20261002_145543] [DRY_RUN] D:\Projects\Automatic_File_Organizer\test_folder\test.c | Would move to D:\Projects\Automatic_File_Organizer\test_folder\Others\test_2.c
+
+========== SESSION SUMMARY ==========
+Session ID: 20261002_145543
+Session Start: 2026-10-02 14:55:43.938071
+Session End: 2026-10-02 14:57:41.838345
+Duration: 0:01:57.900274
+Files processed: 2
+Files moved: 0
+Dry-run files: 1
+Ignored files: 1
+Unknown files: 1
+Errors: 0
+Category statistics:
+  Others: 1
+=====================================
+[2026-10-02 15:07:37] [Session: 20261002_150737] [STARTED] D:\Projects\Automatic_File_Organizer\test_folder | Organizer started
+[2026-10-02 15:07:37] [Session: 20261002_150737] [UNKNOWN] D:\Projects\Automatic_File_Organizer\test_folder\test.c | Unknown extension
+[2026-10-02 15:07:37] [Session: 20261002_150737] [MOVED] D:\Projects\Automatic_File_Organizer\test_folder\test.c | Destination: D:\Projects\Automatic_File_Organizer\test_folder\Others\test_2.c
+[2026-10-02 15:07:37] [Session: 20261002_150737] [IGNORED] D:\Projects\Automatic_File_Organizer\test_folder\test.tmp | Temporary file
+
+========== SESSION SUMMARY ==========
+Session ID: 20261002_150737
+Session Start: 2026-10-02 15:07:37.404123
+Session End: 2026-10-02 15:07:47.051634
+Duration: 0:00:09.647511
+Files processed: 2
+Files moved: 1
+Dry-run files: 0
+Ignored files: 1
+Unknown files: 1
+Errors: 0
+Category statistics:
+  Others: 1
+=====================================

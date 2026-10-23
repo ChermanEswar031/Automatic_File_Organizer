@@ -1,0 +1,48 @@
+[2026-10-02 17:21:07] [Session: 20261002_172107] [STARTED] D:\Projects\Automatic_File_Organizer\dist\test_folder | Organizer started
+
+========== SESSION SUMMARY ==========
+Session ID: 20261002_172107
+Session Start: 2026-10-02 17:21:07.862192
+Session End: 2026-10-02 17:21:14.283080
+Duration: 0:00:06.420888
+Files processed: 0
+Files moved: 0
+Dry-run files: 0
+Ignored files: 0
+Unknown files: 0
+Errors: 0
+Category statistics:
+=====================================
+[2026-10-15 18:00:12] [Session: 20261015_180012] [STARTED] D:\Projects\Automatic_File_Organizer\dist\test_folder | Organizer started
+
+========== SESSION SUMMARY ==========
+Session ID: 20261015_180012
+Session Start: 2026-10-15 18:00:12.215907
+Session End: 2026-10-15 18:01:59.856423
+Duration: 0:01:47.640516
+Files processed: 0
+Files moved: 0
+Dry-run files: 0
+Ignored files: 0
+Unknown files: 0
+Errors: 0
+Category statistics:
+=====================================
+[2026-10-15 18:02:04] [Session: 20261015_180204] [STARTED] D:\Projects\Automatic_File_Organizer\dist\test_folder | Organizer started
+[2026-10-15 18:02:40] [Session: 20261015_180204] [MOVED] D:\Projects\Automatic_File_Organizer\dist\test_folder\photo_2.jpg | Destination: D:\Projects\Automatic_File_Organizer\dist\test_folder\Images\photo_2.jpg
+[2026-10-15 18:03:25] [Session: 20261015_180204] [MOVED] D:\Projects\Automatic_File_Organizer\dist\test_folder\WIN_20230831_10_24_09_Pro.jpg | Destination: D:\Projects\Automatic_File_Organizer\dist\test_folder\Images\WIN_20230831_10_24_09_Pro.jpg
+
+========== SESSION SUMMARY ==========
+Session ID: 20261015_180204
+Session Start: 2026-10-15 18:02:04.165770
+Session End: 2026-10-15 18:05:50.708998
+Duration: 0:03:46.543228
+Files processed: 2
+Files moved: 2
+Dry-run files: 0
+Ignored files: 0
+Unknown files: 0
+Errors: 0
+Category statistics:
+  Images: 2
+=====================================

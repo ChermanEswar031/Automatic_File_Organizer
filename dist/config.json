@@ -1,0 +1,64 @@
+{
+    "Images": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".webp",
+        ".bmp",
+        ".svg",
+        ".ico",
+        ".tiff",
+        ".tif"
+    ],
+
+    "Documents": [
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".txt",
+        ".xlsx",
+        ".xls",
+        ".csv",
+        ".ppt",
+        ".pptx",
+        ".odt",
+        ".ods"
+    ],
+
+    "Audio": [
+        ".mp3",
+        ".wav",
+        ".flac",
+        ".aac",
+        ".m4a",
+        ".ogg"
+    ],
+
+    "Videos": [
+        ".mp4",
+        ".mkv",
+        ".avi",
+        ".mov",
+        ".wmv",
+        ".flv",
+        ".webm"
+    ],
+
+    "Software": [
+        ".exe",
+        ".msi",
+        ".bat",
+        ".cmd",
+        ".py",
+        ".js"
+    ],
+
+    "Archives": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz"
+    ]
+}
